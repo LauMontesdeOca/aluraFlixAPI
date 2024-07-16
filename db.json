@@ -1,0 +1,39 @@
+{
+    "videos":[
+    {
+        "id": 1,
+        "titulo":"CUANDO USAR LET,VAR,CONST?",
+        "capa": "https://www.figma.com/file/fq7mKIvvVXYylv8eti3hjm/image/17ef6f4a12b3502a7d7a91f629b08d1082a16d1d",
+        "link":"https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
+    },
+    {
+        "id": 2,
+        "titulo":"¿QUE ES JAVASCRIPT?",
+        "capa":"https://www.figma.com/file/fq7mKIvvVXYylv8eti3hjm/image/e2425f5d888e71def9f20895b46879eb33916fc1",
+        "link":"https://www.youtube.com/embed/AG2QssLpQzI?si=6Yn355wcxAqU7_Ld"
+    },
+    {
+        "id": 3,
+        "titulo":"SPRING FRAMEWORK",
+        "capa":"https://www.figma.com/file/fq7mKIvvVXYylv8eti3hjm/image/5c360e4de45012ea2655f5bfef23d860d1bf9828",
+        "link":"https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn"
+    },
+    {
+        "id": 4,
+        "titulo":"¿QUE ES SQL Y NOSQL",
+        "capa":"https://www.figma.com/file/fq7mKIvvVXYylv8eti3hjm/image/803d6df1644ac12d062ee849c9554deb430e15b1",
+        "link":"https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO"
+    },
+    {
+        "id":5 ,
+        "titulo":"¿QUE SON LAS SOFT SKILLS?",
+        "capa":"https://www.figma.com/file/fq7mKIvvVXYylv8eti3hjm/image/6b753265a42a7c49fb0b17eb66b63104fe15c7fc",
+        "link":""
+    },
+    {
+        "id": 6,
+        "titulo":"METODOS AGILES?",
+        "capa":"https://www.figma.com/file/fq7mKIvvVXYylv8eti3hjm/image/2237ac5d6ce7a82bd074f782e0d03ce2eae65ade",
+        "link":"https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
+    }
+]}
